@@ -1,7 +1,7 @@
 <h2 align="center"> Hey, I'm Gabriel Germano! 🤓 <br><br> </h2>
 
 <h3> Just a regular person who likes programming, games, technology and all that other geeky stuff. </h3>
-<p>  I'm looking for a developer job opportunity so get in touch! </p>
+<h3>  I'm looking for a developer job opportunity so get in touch! </h3>
   
   ##
   
